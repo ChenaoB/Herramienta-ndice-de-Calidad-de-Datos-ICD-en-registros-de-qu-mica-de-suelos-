@@ -2,6 +2,12 @@
 
 En este repositorio encontrará toda la información relacionada con la herramienta propuesta, así como los requerimientos para garantizar un funcionamiento adecuado de la aplicación.
 
+# Base de datos
+
+Los datos utilizados en este repositorio pueden ser consultados y descargado en el siguiente link
+
+https://www.datos.gov.co/Agricultura-y-Desarrollo-Rural/Resultados-de-An-lisis-de-Laboratorio-Suelos-en-Co/ch4u-f3i5/about_data
+
 # Notas
 
   - El código fue desarrollado en un formulario Jupiter (ipynb) para mostrar el paso a paso de la herramienta.
@@ -17,3 +23,21 @@ En este repositorio encontrará toda la información relacionada con la herramie
     5. plotly: 5.24.1
     6. requests: 2.32.4
     7. scikit-learn: 1.6.1
+  
+  # Consideración 
+  
+  El análisis se realizó para las siguientes columnas de datos químicos del suelo
+
+   1.  ph agua suelo
+   2.  materia organica
+   3.  fosforo bray ii
+   4.  azufre fosfato monocalcico
+   5.  calcio intercambiable
+   6.  magnesio intercambiable
+   7.  potasio intercambiable
+   8.  'sodio intercambiable
+   9.  capacidad de intercambio cationico
+   10. conductividad electrica
+   11. hierro disponible olsen
+   12. cobre disponible
+   13. boro disponible
