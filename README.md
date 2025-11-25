@@ -15,7 +15,7 @@ https://www.datos.gov.co/Agricultura-y-Desarrollo-Rural/Resultados-de-An-lisis-d
     1. Abrir google colab
     2. Ir a Archivo -> Subir Nootbook
     3. Seleccionar la pestaña githube 
-    4. pegar en la URL el siguiente link https://github.com/ChenaoB/Herramienta-ndice-de-Calidad-de-Datos-ICD-en-registros-de-qu-mica-desuelos-/blob/main/Metodo_ICD_Variables_Quimica_Suelo.ipynb 
+    4. pegar en la URL el siguiente link https://github.com/ChenaoB/Herramienta-ndice-de-Calidad-de-Datos-ICD-en-registros-de-qu-mica-de-suelos-/blob/main/Metodo_ICD_Variables_Quimica_Suelo.ipynb 
     5. Seleccionar archivo Metodo_ICD_Variables_Quimica_Suelo.ipynb  
   - Las librería utilizadas fueron de las siguientes versiones:
     1. pandas: 2.2.2
