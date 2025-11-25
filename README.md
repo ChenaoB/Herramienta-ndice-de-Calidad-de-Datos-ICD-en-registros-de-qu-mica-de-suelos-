@@ -11,10 +11,12 @@ https://www.datos.gov.co/Agricultura-y-Desarrollo-Rural/Resultados-de-An-lisis-d
 # Notas
 
   - El código fue desarrollado en un formulario Jupiter (ipynb) para mostrar el paso a paso de la herramienta.
-  - El formulario puede ejecutarse desde google colab siguiendo las siguientes instrucciones:
-    1. !git clone https://github.com/ChenaoB/Herramienta-ndice-de-Calidad-de-Datos-ICD-en-registros-de-qu-mica-de-suelos-.git
-    2. jupyter notebook
-    3. Proyecto_Minitic.ipynb  
+  - El formulario puede ejecutarse desde google colab siguiendo las siguientes instrucciones (recomendado):
+    1. Abrir google colab
+    2. Ir a Archivo -> Subir Nootbook
+    3. Seleccionar la pestaña githube 
+    4. pegar en la URL el siguiente link https://github.com/ChenaoB/Herramienta-ndice-de-Calidad-de-Datos-ICD-en-registros-de-qu-mica-de suelos-/blob/main/Metodo_ICD_Variables_Quimica_Suelo.ipynb 
+    5. Seleccionar archivo Metodo_ICD_Variables_Quimica_Suelo.ipynb  
   - Las librería utilizadas fueron de las siguientes versiones:
     1. pandas: 2.2.2
     2. numpy: 2.0.2
