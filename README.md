@@ -46,8 +46,8 @@ https://www.datos.gov.co/Agricultura-y-Desarrollo-Rural/Resultados-de-An-lisis-d
 
   Este proyecto fue desarrollado conjuntamente por:
 
-  Carlos Alberto Henao Baena
-  Paola Yazmín Izquiedo Betancur
-  Yenier Valencia (Ingeniería Smaf S.A.S)
+     -Carlos Alberto Henao Baena
+     -Paola Yazmín Izquiedo Betancur
+     -Yenier Valencia (Ingeniería Smaf S.A.S)
 
   Como propuesta al reto propuesto por el ministerior de la TIC y Telecomunicaciones
