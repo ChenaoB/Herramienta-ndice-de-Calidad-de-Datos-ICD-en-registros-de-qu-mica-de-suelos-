@@ -35,9 +35,19 @@ https://www.datos.gov.co/Agricultura-y-Desarrollo-Rural/Resultados-de-An-lisis-d
    5.  calcio intercambiable
    6.  magnesio intercambiable
    7.  potasio intercambiable
-   8.  'sodio intercambiable
+   8.  sodio intercambiable
    9.  capacidad de intercambio cationico
    10. conductividad electrica
    11. hierro disponible olsen
    12. cobre disponible
    13. boro disponible
+
+  # Créditos
+
+  Este proyecto fue desarrollado conjuntamente por:
+
+  Carlos Alberto Henao Baena
+  Paola Yazmín Izquiedo Betancur
+  Yenier Valencia (Ingeniería Smaf S.A.S)
+
+  Como propuesta al reto propuesto por el ministerior de la TIC y Telecomunicaciones
