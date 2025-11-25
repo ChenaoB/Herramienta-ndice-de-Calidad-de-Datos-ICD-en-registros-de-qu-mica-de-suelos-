@@ -4,12 +4,12 @@ En este repositorio encontrará toda la información relacionada con la herramie
 
 # Notas
 
-- El código fue desarrollado en un formulario Jupiter (ipynb) para mostrar el paso a paso de la herramienta.
+- El código fue desarrollado en un formulario Jupiter (ipynb) para mostrar el paso a paso de la herramienta <br>.
 - El formulario puede ejecutarse desde google colab siguiendo las siguientes instrucciones:
-    1. !git clone https://github.com/ChenaoB/Herramienta-ndice-de-Calidad-de-Datos-ICD-en-registros-de-qu-mica-de-suelos-.git <br>
+    1. !git clone https://github.com/ChenaoB/Herramienta-ndice-de-Calidad-de-Datos-ICD-en-registros-de-qu-mica-de-suelos-.git
     2. jupyter notebook
     3. Proyecto_Minitic.ipynb
-- Las librería utilizadas fueron de las siguientes versiones:
+- <br>Las librería utilizadas fueron de las siguientes versiones:
     1. pandas: 2.2.2
     2. numpy: 2.0.2
     3. matplotlib: 3.10.0
