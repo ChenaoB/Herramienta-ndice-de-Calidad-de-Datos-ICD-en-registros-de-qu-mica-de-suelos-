@@ -4,9 +4,14 @@ En este repositorio encontrará toda la información relacionada con la herramie
 
 # Base de datos
 
+
 Los datos utilizados en este repositorio pueden ser consultados y descargado en el siguiente link
 
 https://www.datos.gov.co/Agricultura-y-Desarrollo-Rural/Resultados-de-An-lisis-de-Laboratorio-Suelos-en-Co/ch4u-f3i5/about_data
+
+# Propuesta Metodológica
+
+![WhatsApp Image 2025-11-27 at 9 15 15 AM](https://github.com/user-attachments/assets/0b9d777e-5c15-4df6-9ded-1bbb8f380fb0)
 
 # Notas
 
